@@ -50,12 +50,7 @@ An end-to-end data analytics project analyzing 500,000 credit card transactions 
 - Fraud Amount: ₹15.82 Lakh
 
 ## 📥 Power BI Dashboard
-[View / Download Dashboard][(PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE](https://drive.google.com/drive/folders/1-weXGvwL7twAgJsi6PA99m1fHZArKHRf?usp=sharing))
-
-## 👨‍💻 Author
-**Rushikesh Ubale**
-
-Aspiring Data Analyst | Python | SQL | MySQL | Power BI)
+[View / Download Dashboard][((https://drive.google.com/drive/folders/1-weXGvwL7twAgJsi6PA99m1fHZArKHRf?usp=sharing))
 
 ## 👨‍💻 Author
 **Rushikesh Ubale**
